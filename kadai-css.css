@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* チャプター：ヘッダー */
+header {
+    width: 1000px;
+    background-color: #ffcccc;
+    margin-bottom:0px
+}
+/* wrapper部分 */
+#wrapper {
+    display: flex;
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+/* main部分 */
+#main {
+    background-color: #ccffcc;
+    width:700px;
+}
+/* menu部分 */
+#menu {
+    background-color: #ccccff;
+    width:300px;
+}
+/* footer_navi部分 */
+footer
+{
+     width: 1000px;
+     margin-top:0px;
+     background-color: #ffccff;
+}
